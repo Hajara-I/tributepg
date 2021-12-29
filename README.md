@@ -1,2 +1,3 @@
 # tributepg
-Tribute page trial
+
+Created a basic html tribute page for Queen Amina of Zaria
